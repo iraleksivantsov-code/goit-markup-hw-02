@@ -1,5 +1,5 @@
 body {
-  font-family: "Raleway", sans-serif;
+  font-family: "Roboto", sans-serif;
   color: #434455;
   background-color: #fff;
 }
@@ -55,4 +55,25 @@ a {
 .contacts-link:hover,
 .contacts-link:focus {
   color: #404bbf;
+}
+
+.main-heading {
+  width: 1440px;
+  height: 600px;
+  font-size: 56px;
+  line-height: 107%;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #fff;
+  background-color: #2e2f42;
+}
+
+.button-title {
+  border-radius: 4px;
+  padding-block: 16px;
+  padding-inline: 32px;
+  width: 169px;
+  height: 56px;
+  color: #fff;
+  background-color: #4d5ae5;
 }
