@@ -102,7 +102,7 @@ a {
   background-color: #f4f4fd;
 }
 
-.our-Team {
+.our-team {
   font-weight: 700;
   font-size: 36px;
   line-height: 111%;
@@ -134,7 +134,7 @@ a {
   background-color: #fff;
 }
 
-.our-Portfolio {
+.our-portfolio {
   font-weight: 700;
   font-size: 36px;
   line-height: 111%;
@@ -164,4 +164,9 @@ a {
 }
 
 .paragraph-footer {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0.02em;
+  color: #f4f4fd;
 }
