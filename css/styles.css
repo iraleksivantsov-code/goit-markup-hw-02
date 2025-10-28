@@ -70,6 +70,15 @@ a {
 }
 
 .button-title {
+  font-weight: 500;
+  line-height: 150%;
+  letter-spacing: 0.04em;
+  cursor: pointer;
   color: #fff;
   background-color: #4d5ae5;
+}
+
+.button-title:hover,
+.button-title:focus {
+  background-color: #404bbf;
 }
